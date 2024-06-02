@@ -1,5 +1,5 @@
 # soberchang
 
 Hello, this is Changsoo S. Kim
-I'm a Ph.D student working on chemical engineering and intelligent process systems.
-Mainly interested in implementing machine learning techniques to the process design framework.
+I'm a senior researcher at the Clean Energy Research Center, Korea Institute of Science & Technology.
+Research interests inclue CO<sub>2<\sub> utilization process design & development, and machine learning-based process monitoring.
